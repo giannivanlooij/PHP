@@ -1,8 +1,7 @@
 <?php
+$a = "Ik heb niet gefaald.";
+$b = "die niet werken";
+$c = 10000;
 
-$aantal = 14;
-$deze_jongen = "Deze jongen is ";
-
-echo $deze_jongen.$aantal." jaar oud";
-
+echo $a." Ik heb alleen ".$c." manieren gevonden die niet werken.";
 ?>
