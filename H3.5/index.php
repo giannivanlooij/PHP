@@ -4,6 +4,7 @@
     <title>PHP Opdracht 3.5</title>
 </head>
 <body>
+<h2>Bus reis opdracht. de opdracht zit in de code.</h2>
 <?php
 $leeftijd = 3;
 $bedrag = 10;
