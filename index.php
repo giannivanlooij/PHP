@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>PHP opdrachten index</title>
 </head>
 <body>
     <h1>Cursus opdrachten PHP</h1>
@@ -14,6 +14,7 @@
     <li><a href="H3totH3.3/index.php">Hoofdstuk 3 tot H3.3</a></li>
     <li><a href="H3.4/index.php">Hoofdstuk 3.4</a></li>
     <li><a href="H3.5/index.php">Hoofdstuk 3.5</a></li>
+    <li><a href="H3.6/index.php">Hoofdstuk 3.6</a></li>
     </ul>
 </body>
 </html>
