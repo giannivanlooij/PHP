@@ -15,6 +15,7 @@
     <li><a href="H3.4/index.php">Hoofdstuk 3.4</a></li>
     <li><a href="H3.5/index.php">Hoofdstuk 3.5</a></li>
     <li><a href="H3.6/index.php">Hoofdstuk 3.6</a></li>
+    <li><a href="H3.7/index.php">Hoofdstuk 3.7</a></li>
     </ul>
 </body>
 </html>
