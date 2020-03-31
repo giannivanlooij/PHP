@@ -40,6 +40,9 @@ calc($c);
 echo "<br>";
 echo "<br>";
 
+echo "<h2> hier zijn de overige opdrachten:</h2>";
+echo "<h3> de boolean opdracht:</h3>";
+
 $num = 3;
 
 function devide3check($num) {
@@ -54,6 +57,8 @@ function devide3check($num) {
  echo devide3check($num);
 
  echo "<br>";
+
+ echo "<h3> de woord-draai opdracht:</h3>";
 
     
 
