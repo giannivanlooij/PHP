@@ -24,7 +24,7 @@ if(isset($_GET["submit"])) {
 }
 echo "<br>";
 echo "<br>";
-echo "<h2> hier is de orginele opdracht met de functie</h2>";
+echo "<h2> hier is de orginele opdracht met de functie:</h2>";
     
 
 
