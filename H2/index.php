@@ -1,3 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PHP Hoofdstuk 2</title>
+</head>
+<body>
 <?php
 $a = "Ik heb niet gefaald.";
 $b = "die niet werken";
@@ -38,3 +46,5 @@ $c = "teleu";
 
 echo nl2br  ("De cursus ".$a." ".$b." ".$c."rstellingen"."\""." Kan vanavond helaas niet doorgaan. \n - Herman Finkers");
 ?>
+</body>
+</html>
