@@ -40,21 +40,24 @@ calc($c);
 echo "<br>";
 echo "<br>";
 
-// $num = 3;
+$num = 3;
 
-// function devide3check($num) {
-//     if($num % 3 = 0) {
-//         $deelbaar = true;
-//     } else {
-//         $deelbaar = false;
-//     }
-//     return $deelbaar;
+function devide3check($num) {
+    if($num % 3 == 0) {
+        $deelbaar = true;
+    } else {
+        $deelbaar = false;
+    }
+    return $deelbaar;
+}
 
-//     if(devide3check()) {
-//         echo "yess";
-//     } else {
-//         echo "here we go again";
-//     }
+ echo devide3check($num);
+
+ echo "<br>";
+
+    
+
+
 
 $woord = ("vul hier het woord in");
 
