@@ -19,7 +19,8 @@
     <li><a href="H4/index.php">Hoofdstuk 4</a></li>
     <li><a href="H5/H5.1/form.html">Hoofdstuk 5.1</a></li>
     <li><a href="H5/H5.2/form.html">Hoofdstuk 5.2</a></li>
-    <li><a href="H5/H5.3/form.html">Hoofdstuk 5.3</a></li>
+    <li><a href="H5/H5.3/form.html">Hoofdstuk 5.3 & 5.4</a></li>
+    <li><a href="H6/H6.1.php">Hoofdstuk 6</a></li>
     </ul>
 </body>
 </html>
