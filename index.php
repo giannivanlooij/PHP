@@ -22,6 +22,7 @@
     <li><a href="H5/H5.3/form.html">Hoofdstuk 5.3 & 5.4</a></li>
     <li><a href="H6/H6.1.php">Hoofdstuk 6.1</a></li>
     <li><a href="H6/login6.2.html">Hoofdstuk 6.2</a></li>
+    <li><a href="H7/loginH7.php">Hoofdstuk 7</a></li>
     </ul>
 </body>
 </html>
